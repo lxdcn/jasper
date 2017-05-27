@@ -1047,6 +1047,10 @@ body:not(.post-template) .post-title {
     margin-bottom: 3.4rem;
 }
 
+.within-layout-post.post-header {
+    margin-bottom: 3.4rem;
+}
+
 .post-template .post-title {
     margin-bottom: 0;
 }
