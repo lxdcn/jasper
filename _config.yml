@@ -7,7 +7,7 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Thoughts, notes and collections'
+name: 'Thoughts, Notes and Collections'
 description: ""
 
 # Author's info
@@ -17,12 +17,12 @@ nickname: lxd
 username: lxd
 bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
 location: 'shenzhen, CN'
-url: 'https://lxd.me'
-image: 'assets/images/casper.png'
+url: 'https://post.lxd.me'
+image: 'assets/images/lxd.png'
 
-short_url: 'lxd.me'
+short_url: 'post.lxd.me'
 google_analytics: UA-69281367-1
-disqus: username
+disqus: post-lxd-me
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
 
