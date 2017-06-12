@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/cover.jpg
+cover: assets/images/spring-java-ee.png
 subclass: post
 title: Spring Introduction
 navigation: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/cover.jpg
+cover: assets/images/cover-film-interstellar.png
 subclass: post
 title: "星际穿越 Interstellar 影评"
 navigation: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/cover.jpg
+cover: assets/images/tunnel-demo-0.png
 subclass: post
 title: A simple VPN (tunnel with tun device) demo and some basic concepts
 navigation: true

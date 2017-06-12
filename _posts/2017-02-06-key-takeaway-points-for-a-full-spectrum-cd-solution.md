@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/cover.jpg
+cover: assets/images/pipeline-generic.png
 subclass: post
 title: Key Takeaway Points for a Full-spectrum CI/CD Solution
 navigation: true

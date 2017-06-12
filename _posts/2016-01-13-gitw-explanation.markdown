@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/cover.jpg
+cover: assets/images/cover-gitw.png
 subclass: post
 title: "Git wrap script to ignore files that have already been committed"
 navigation: true

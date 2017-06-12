@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/cover.jpg
+cover: assets/images/ast-of-a-long-query-method.png
 subclass: post
 title: "Spring Data JPA 技术分析" 
 navigation: true

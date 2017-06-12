@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/cover.jpg
+cover: assets/images/cover-film-youth.png
 subclass: post
 title: "年轻不再，气也不盛了"
 navigation: true

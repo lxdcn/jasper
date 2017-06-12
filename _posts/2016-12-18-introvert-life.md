@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/cover.jpg
+cover: assets/images/cover-introverted-life.png
 subclass: post
 title: “呵呵，其实我也是一个内向的人”
 navigation: true
@@ -10,8 +10,6 @@ categories: lxd
 tags: novella chs
 comments: true
 ---
-
-![dan ran chu shi](/assets/images/dan-ran-chu-shi.jpeg)
 
 小李今年刚毕业，虽说之前在公司实习的时候积累了一些工作经验，但是小李生性谨慎，谨小慎微，虽然前两天已经提前转正，成为正式员工了，但做事情还是战战兢兢，诚惶诚恐，谨遵老父亲叮嘱的“少说话，多做事，尊重领导，团结同事”的家训。
 

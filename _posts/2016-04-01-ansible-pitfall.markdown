@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/cover.jpg
+cover: assets/images/cover-ansible-pitfalls.png
 subclass: post
 title: 写Ansible脚本为什么这么痛
 navigation: true

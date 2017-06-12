@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/cover.jpg
+cover: assets/images/cover-powershell.png
 subclass: post
 title: "在PowerShell里并行执行脚本"
 navigation: true

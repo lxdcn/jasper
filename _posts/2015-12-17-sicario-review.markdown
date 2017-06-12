@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/cover.jpg
+cover: assets/images/cover-sicario.jpg
 subclass: post
 title: "边境杀手 Sicario 影评"
 navigation: true

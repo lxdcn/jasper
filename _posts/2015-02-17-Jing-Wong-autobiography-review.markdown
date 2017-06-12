@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/cover.jpg
+cover: assets/images/cover-wangjing.png
 subclass: post
 title: "王晶的香港电影史"
 navigation: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/cover.jpg
+cover: assets/images/cover-ansible-pitfalls.png
 subclass: post
 title: Ansible Pitfalls
 navigation: true

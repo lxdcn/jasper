@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/cover.jpg
+cover: assets/images/bounce-is-faster-figure.png
 subclass: post
 title:  "向多台机器分发文件 - bounce"
 navigation: true

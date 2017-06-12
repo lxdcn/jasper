@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/cover.jpg
+cover: assets/images/cover-restricted.jpg
 subclass: post
 title: 受限环境中的奇淫技巧之 — ssh通道 
 navigation: true

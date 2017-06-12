@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/cover.jpg
+cover: assets/images/cover-restricted.jpg
 subclass: post
 title: Let SSH Tunnel Rescue You in Restricted Network Environment
 navigation: true

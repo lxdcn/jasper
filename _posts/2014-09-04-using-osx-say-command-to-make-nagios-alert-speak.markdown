@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: assets/images/cover.jpg
+cover: assets/images/cover-scream.png
 subclass: post
 title: "用OSX的say命令让Nagios报警叫出来"
 navigation: true
