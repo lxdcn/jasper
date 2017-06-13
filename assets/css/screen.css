@@ -637,6 +637,7 @@ body.nav-opened .nav {
 
 .nav li:before {
     display: block;
+    display: none;
     float: right;
     padding-right: 4%;
     padding-left: 5px;
@@ -662,6 +663,7 @@ body.nav-opened .nav {
 }
 .nav li a:after {
     display: inline-block;
+    display: none;
     content: " .......................................................";
     color: rgba(255,255,255,0.2);
     margin-left: 5px;
